@@ -1,2 +1,2 @@
 # Silent_Deep
-Mainly is C\C++ protects
+Mainly is C\C++ projects
